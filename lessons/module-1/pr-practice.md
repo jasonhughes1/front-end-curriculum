@@ -44,9 +44,9 @@ In this repo you will find your name. It is your job to answer the given questio
 - Erik Ingvalson:
 - Francy Lang:
 - Jacob Boutin:
-- Jason Hughes: Medieval Times entertainment department
+- Jason Hughes:
 - Jennifer Woodson:
-- John Michael Boudreaux:
+- John Michael Boudreaux: building scaffold in a really small town for one night
 - Jorge Perez Garcia:
 - Lucas Finney:
 - Matt Renn:
